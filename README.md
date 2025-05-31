@@ -4,7 +4,7 @@
 
 I'm a data analyst with a strong passion for data science and artificial intelligence. So far, my experience includes data analysis, machine learning, and business intelligence, but I'm always striving to learn something new.
 
-If you'd like to learn more about my career, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/amaralbianca/). 
+If you'd like to learn more about my career, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/amaralbianca/?locale=en_US). 
 
 
 ### Technologies & Tools 🔧 
